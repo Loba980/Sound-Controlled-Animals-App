@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+}
+
+.header_div{
+    background-color: darkblue;
+    color: black;
+}
+
+p{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-weight: 10px;  
+    word-spacing: 3px;
+    font-size: 20px;
+}
+
+#button{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    margin-top: 30px;
+    width: 75px;
+    font-weight: 10px;
+    word-spacing: 3px;
+}
+
+#copy_right_footer{
+    background-color: darkblue;
+    color: black;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    bottom:0;
+    position:fixed;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    text-shadow: gray;
+}
